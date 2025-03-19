@@ -15,4 +15,6 @@ A fun interactive web game where users try to catch the elusive Work Bonus butto
 - Vanilla JavaScript
 
 ## Live Demo
-Visit [here](https://khanhpro68.github.io/work-bonus/) to play the game! 
+Visit [here](https://khanhpro68.github.io/work-bonus/) to play the game!
+
+Last deployed: March 19, 2024 
